@@ -582,12 +582,12 @@
 				"method": "POST",
 				"header": [],
 				"url": {
-					"raw": "{{url}}cards/6420292a5d4242a4c87bfd59/labels?name=Nazwa&color=orange&key={{key}}&token={{token}}",
+					"raw": "{{url}}cards/642029026fe5182ae8f8829f/labels?name=Nazwa&color=red&key={{key}}&token={{token}}",
 					"host": [
 						"{{url}}cards"
 					],
 					"path": [
-						"6420292a5d4242a4c87bfd59",
+						"642029026fe5182ae8f8829f",
 						"labels"
 					],
 					"query": [
@@ -597,7 +597,7 @@
 						},
 						{
 							"key": "color",
-							"value": "orange"
+							"value": "red"
 						},
 						{
 							"key": "key",
