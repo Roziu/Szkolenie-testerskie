@@ -15,7 +15,7 @@
 				"method": "POST",
 				"header": [],
 				"url": {
-					"raw": "https://api.trello.com/1/boards/?name=Tablica API&key=7eeb7cf8c5fe56242ce39da78c900cb0&token=ATTA98843b0e573f2125425e3f60bf0d03bfeab5a96c9be271b3d4823f434565af548A6037F0",
+					"raw": "https://api.trello.com/1/boards/?name=Nowy Board&key=7eeb7cf8c5fe56242ce39da78c900cb0&token=ATTA98843b0e573f2125425e3f60bf0d03bfeab5a96c9be271b3d4823f434565af548A6037F0",
 					"protocol": "https",
 					"host": [
 						"api",
@@ -30,7 +30,7 @@
 					"query": [
 						{
 							"key": "name",
-							"value": "Tablica API"
+							"value": "Nowy Board"
 						},
 						{
 							"key": "key",
@@ -582,12 +582,12 @@
 				"method": "POST",
 				"header": [],
 				"url": {
-					"raw": "{{url}}cards/642029026fe5182ae8f8829f/labels?name=Nazwa&color=red&key={{key}}&token={{token}}",
+					"raw": "{{url}}cards/6420292a5d4242a4c87bfd59/labels?name=Nazwa&color=orange&key={{key}}&token={{token}}",
 					"host": [
 						"{{url}}cards"
 					],
 					"path": [
-						"642029026fe5182ae8f8829f",
+						"6420292a5d4242a4c87bfd59",
 						"labels"
 					],
 					"query": [
@@ -597,7 +597,7 @@
 						},
 						{
 							"key": "color",
-							"value": "red"
+							"value": "orange"
 						},
 						{
 							"key": "key",
