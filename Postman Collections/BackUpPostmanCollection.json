@@ -7,7 +7,7 @@
 	"item": [
 		{
 			"name": "CreateBoard",
-			"_postman_id": "e9bcbbc1-bd29-49a7-aa7c-7785030d04e9",
+			"id": "e9bcbbc1-bd29-49a7-aa7c-7785030d04e9",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -47,7 +47,7 @@
 		},
 		{
 			"name": "CreateBoard Copy",
-			"_postman_id": "80503856-6d46-41bd-ad07-1bdaa8afe3a6",
+			"id": "80503856-6d46-41bd-ad07-1bdaa8afe3a6",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -87,7 +87,7 @@
 		},
 		{
 			"name": "ToDoList",
-			"_postman_id": "86a11509-5425-49ef-870d-053f45ab913a",
+			"id": "86a11509-5425-49ef-870d-053f45ab913a",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -130,7 +130,7 @@
 		},
 		{
 			"name": "ToDoList2",
-			"_postman_id": "b9c8d4b1-5afe-4cfd-b702-051443a91036",
+			"id": "b9c8d4b1-5afe-4cfd-b702-051443a91036",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -173,7 +173,7 @@
 		},
 		{
 			"name": "Karta1",
-			"_postman_id": "7ff5667d-8007-4764-9ea9-d6f28160cf16",
+			"id": "7ff5667d-8007-4764-9ea9-d6f28160cf16",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -213,7 +213,7 @@
 		},
 		{
 			"name": "Karta2",
-			"_postman_id": "b020ebf0-637c-4e4e-8d85-d833c941eabd",
+			"id": "b020ebf0-637c-4e4e-8d85-d833c941eabd",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -253,7 +253,7 @@
 		},
 		{
 			"name": "Karta 3",
-			"_postman_id": "b8195e53-e46f-4358-b5e5-cf198380328b",
+			"id": "b8195e53-e46f-4358-b5e5-cf198380328b",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -261,18 +261,18 @@
 				"method": "POST",
 				"header": [],
 				"url": {
-					"raw": "{{url}}cards?idList=64201b2ee9dd066418c0b776&name=Karta1&key={{key}}&token={{token}}&desc=to jest pierwszy wpis na karcie",
+					"raw": "{{url}}cards?idList=642028a2b3a9d28fad6f1df7&name=Karta3&key={{key}}&token={{token}}&desc=to jest pierwszy wpis na karcie",
 					"host": [
 						"{{url}}cards"
 					],
 					"query": [
 						{
 							"key": "idList",
-							"value": "64201b2ee9dd066418c0b776"
+							"value": "642028a2b3a9d28fad6f1df7"
 						},
 						{
 							"key": "name",
-							"value": "Karta1"
+							"value": "Karta3"
 						},
 						{
 							"key": "key",
@@ -293,7 +293,7 @@
 		},
 		{
 			"name": "Karta4",
-			"_postman_id": "9b994d79-9fc0-419f-a12a-b8decd2f8e1f",
+			"id": "9b994d79-9fc0-419f-a12a-b8decd2f8e1f",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -333,7 +333,7 @@
 		},
 		{
 			"name": "Karta5",
-			"_postman_id": "4332b90f-031c-4672-a850-2d4ffbc9788a",
+			"id": "4332b90f-031c-4672-a850-2d4ffbc9788a",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -373,7 +373,7 @@
 		},
 		{
 			"name": "Karta6",
-			"_postman_id": "05bd51af-24a4-4785-bc61-6205e0b5b84d",
+			"id": "05bd51af-24a4-4785-bc61-6205e0b5b84d",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -413,7 +413,7 @@
 		},
 		{
 			"name": "CreateNewListInProgress",
-			"_postman_id": "164ef5c7-496f-4bf7-920d-9e3376d26d95",
+			"id": "164ef5c7-496f-4bf7-920d-9e3376d26d95",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -449,7 +449,7 @@
 		},
 		{
 			"name": "UpdateBoard",
-			"_postman_id": "9a3919ef-0299-426e-8dc1-2da365608b07",
+			"id": "9a3919ef-0299-426e-8dc1-2da365608b07",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -485,7 +485,7 @@
 		},
 		{
 			"name": "getMember",
-			"_postman_id": "02716141-2215-4cde-a8a2-cdb799e904fc",
+			"id": "02716141-2215-4cde-a8a2-cdb799e904fc",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -498,7 +498,7 @@
 		},
 		{
 			"name": "New Request",
-			"_postman_id": "28b5bd78-b3b9-46de-a995-701ca79793cb",
+			"id": "28b5bd78-b3b9-46de-a995-701ca79793cb",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -534,7 +534,7 @@
 		},
 		{
 			"name": "Label 1.1",
-			"_postman_id": "5e077d27-7c3a-40cb-b7af-fef8b139b540",
+			"id": "5e077d27-7c3a-40cb-b7af-fef8b139b540",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -574,7 +574,7 @@
 		},
 		{
 			"name": "Label 2.1",
-			"_postman_id": "981e15d8-6b88-420d-87f1-4edce3699e20",
+			"id": "981e15d8-6b88-420d-87f1-4edce3699e20",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -614,7 +614,7 @@
 		},
 		{
 			"name": "Label 3.1",
-			"_postman_id": "20f14d09-4c98-4035-b1c4-7bd0d729e8c5",
+			"id": "20f14d09-4c98-4035-b1c4-7bd0d729e8c5",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -654,7 +654,7 @@
 		},
 		{
 			"name": "Label 1.2",
-			"_postman_id": "5b9a93d7-06d3-494d-a34d-c8e5fe31e9c9",
+			"id": "5b9a93d7-06d3-494d-a34d-c8e5fe31e9c9",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -694,7 +694,7 @@
 		},
 		{
 			"name": "Label 2.2",
-			"_postman_id": "bd68e96b-2576-4460-85d3-0b3cc0c7c81c",
+			"id": "bd68e96b-2576-4460-85d3-0b3cc0c7c81c",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -734,7 +734,7 @@
 		},
 		{
 			"name": "Label 3.2",
-			"_postman_id": "0ac1fb40-acb6-46fe-8b46-eddc24a3a0d9",
+			"id": "0ac1fb40-acb6-46fe-8b46-eddc24a3a0d9",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
