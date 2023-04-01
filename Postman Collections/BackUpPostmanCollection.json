@@ -221,18 +221,18 @@
 				"method": "POST",
 				"header": [],
 				"url": {
-					"raw": "{{url}}cards?idList=64201b2ee9dd066418c0b776&name=Karta1&key={{key}}&token={{token}}&desc=to jest pierwszy wpis na karcie",
+					"raw": "{{url}}cards?idList=642028a2b3a9d28fad6f1df7&name=Karta2&key={{key}}&token={{token}}&desc=to jest pierwszy wpis na karcie",
 					"host": [
 						"{{url}}cards"
 					],
 					"query": [
 						{
 							"key": "idList",
-							"value": "64201b2ee9dd066418c0b776"
+							"value": "642028a2b3a9d28fad6f1df7"
 						},
 						{
 							"key": "name",
-							"value": "Karta1"
+							"value": "Karta2"
 						},
 						{
 							"key": "key",
