@@ -421,18 +421,18 @@
 				"method": "POST",
 				"header": [],
 				"url": {
-					"raw": "{{url}}list?name=In Progress&idBoard=64201aea2f1e6436da54f526&key={{key}}&token={{token}}",
+					"raw": "{{url}}list?name=W progresie&idBoard=64202113e573aa371ce66216&key={{key}}&token={{token}}",
 					"host": [
 						"{{url}}list"
 					],
 					"query": [
 						{
 							"key": "name",
-							"value": "In Progress"
+							"value": "W progresie"
 						},
 						{
 							"key": "idBoard",
-							"value": "64201aea2f1e6436da54f526"
+							"value": "64202113e573aa371ce66216"
 						},
 						{
 							"key": "key",
