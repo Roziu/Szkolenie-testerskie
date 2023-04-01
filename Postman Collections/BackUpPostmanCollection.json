@@ -95,7 +95,7 @@
 				"method": "POST",
 				"header": [],
 				"url": {
-					"raw": "https://api.trello.com/1/lists?name=ToDo&idBoard=64201aea2f1e6436da54f526&key=7eeb7cf8c5fe56242ce39da78c900cb0&token=ATTA98843b0e573f2125425e3f60bf0d03bfeab5a96c9be271b3d4823f434565af548A6037F0",
+					"raw": "https://api.trello.com/1/lists?name=ToDoList&idBoard=64202113e573aa371ce66216&key=7eeb7cf8c5fe56242ce39da78c900cb0&token=ATTA98843b0e573f2125425e3f60bf0d03bfeab5a96c9be271b3d4823f434565af548A6037F0",
 					"protocol": "https",
 					"host": [
 						"api",
@@ -109,11 +109,11 @@
 					"query": [
 						{
 							"key": "name",
-							"value": "ToDo"
+							"value": "ToDoList"
 						},
 						{
 							"key": "idBoard",
-							"value": "64201aea2f1e6436da54f526"
+							"value": "64202113e573aa371ce66216"
 						},
 						{
 							"key": "key",
